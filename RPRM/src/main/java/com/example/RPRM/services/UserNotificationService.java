@@ -31,7 +31,7 @@ public class UserNotificationService {
                 paymentEntity.getAmount()
         );
 
-        sendEmail(paymentEntitgity.getUserId(), subject, text);
+        sendEmail(paymentEntitgitgitgy.getUserId(), subject, text);
     }
 
     // Helper method to send email
