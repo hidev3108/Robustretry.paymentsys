@@ -31,6 +31,7 @@ public class UserNotificationService {
                 paymentEntity.getAmount()
         );
 
+        PaymentEntity paymentEntitgitgitgy = null;
         sendEmail(paymentEntitgitgitgy.getUserId(), subject, text);
     }
 
